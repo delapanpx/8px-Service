@@ -1,5 +1,5 @@
-url: 
-baseurl: 
+url: https://delapanpx.com
+baseurl: /service
 
 # Site settings
 title: Awesome Title
@@ -64,6 +64,9 @@ social:
 address:
   - line: 3481 Melrose Place
   - line: Beverly Hills, CA 90210
+
+# Other Params
+include: [ ".htaccess" ]
 
 # Build settings
 markdown: kramdown
